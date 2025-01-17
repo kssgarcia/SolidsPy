@@ -11,7 +11,7 @@ __all__ = ["assemutil",
            "uelutil",
            "solids_GUI"]
 
-__version__ = "1.1.0"
+__version__ = "1.6.3"
 
 __citation__ = """@software{solidspy,
  title = {SolidsPy: 2D/3D-Finite Element Analysis with Python},
